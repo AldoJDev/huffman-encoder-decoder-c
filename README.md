@@ -162,9 +162,6 @@ O algoritmo de Huffman é um método de compressão sem perdas que utiliza códi
 - Caminhos muito longos (> 512 caracteres) podem causar problemas
 - Interface apenas em português
 
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ## 🔗 Referências
 
